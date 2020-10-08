@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Webshop.sqlLite\Webshop.DATA.csproj" />
+    <ProjectReference Include="..\Webshop.Data\Webshop.DATA.csproj" />
   </ItemGroup>
 
 </Project>

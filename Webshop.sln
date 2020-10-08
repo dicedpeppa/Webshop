@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Application
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{5F4B7D12-9E07-4952-9C47-6DD1849C346A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop.DATA", "Webshop.sqlLite\Webshop.DATA.csproj", "{972AE2D2-875D-4B23-8998-B5B60A7B0187}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop.DATA", "Webshop.Data\Webshop.DATA.csproj", "{972AE2D2-875D-4B23-8998-B5B60A7B0187}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{4CA2FACA-18BA-498C-9AD3-68FBC3D0148D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop.MODEL", "Webshop.DATA\Webshop.MODEL.csproj", "{6C2D0E5B-C0F2-4403-B09B-66BA1C4F01D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webshop.MODEL", "Webshop.Model\Webshop.MODEL.csproj", "{6C2D0E5B-C0F2-4403-B09B-66BA1C4F01D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
